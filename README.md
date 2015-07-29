@@ -1,17 +1,24 @@
 # Bot_by_Ruby
 書籍：恋するプログラム（Rubyでつくる人工無能）のサンプルプログラムをMac OSX用に対応した
 
+
+### 実行方法
+`$ ruby noby.rb`
+
+
 ### 形態素解析について
 形態素解析には、Mecabを使用した
 RubyからMecabを使用するために、nattoを使用した
 
 インストール方法は以下
 
+
 #### Mecabのインストール
 
 `$ brew install mecab`
 
 `$ brew install mecab-ipadic`
+
 
 #### Mecabの動作確認
 
